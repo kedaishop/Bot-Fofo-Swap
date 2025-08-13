@@ -1,4 +1,4 @@
-# Bot-Fofo-Swap 🚀
+# Bot-Fogo-Swap 🚀
 **BOT FOGO AUTO SWAP** – Bot khusus untuk melakukan swap di **Valiant DEX**.
 
 ---
