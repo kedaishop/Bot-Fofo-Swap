@@ -1,16 +1,22 @@
 # Bot-Fogo-Swap 🚀
-**BOT FOGO AUTO SWAP** – Bot khusus untuk melakukan swap di **Valiant DEX**.
+**BOT FOGO AUTO SWAP** – Bot khusus untuk melakukan swap di **Valiant DEX** dan **FluxBeam DEX** ( Support Unwarp FOGO ).
 
 ---
 
-## 📌 Fitur Perintah
-- `/inputPrivateKey` → Tambah wallet  
-- `/viewAllWallet` → Lihat semua wallet  
-- `/deleteWallet <nomor>` → Hapus wallet berdasarkan nomor  
-- `/deleteWallet all` → Hapus semua wallet  
-- `/balances` → Cek saldo semua wallet  
-- `/swapToFusd <amount>` → Swap FOGO → FUSD  
-- `/swapToFogo <amount>` → Swap FUSD → FOGO  
+## 📌 Setting Wallet
+- /wallet_add → Tambah wallet
+- /wallet_view → Melihat all wallet 
+- /wallet_delete <nomor> → Delete wallet 
+- /wallet_delete_all → Delete all wallet 
+- /balance → Cek balance 
+- /unwarp → Unwarp WFOGO ke FOGO 
+- /send → Send transaction
+
+## 🌐 Platform Dex
+- /valiant → Mode platform Valiant 
+- /fluxbeam → Mode platform Fluxbeam
+
+📈 Ambient ( SOON )
 
 ---
 
@@ -28,4 +34,4 @@ Klik link ini untuk langsung menggunakan bot: **[@fogoswapbot](https://t.me/fogo
 
 ## ❤️ Donasi
 - **EVM**: `0x82732659D07F9c12F98985bC7A9Cf2A7F6CdEB86`  
-- **SOL**: `8tTHDg5PBmRM1MtQpxgrGpwAfh1mn4sTpGgrAVnm2V8w`  
+- **SOL**: `8tTHDg5PBmRM1MtQpxgrGpwAfh1mn4sTpGgrAVnm2V8w`
